@@ -23,6 +23,7 @@ This project demonstrates **web design fundamentals** — responsive layout, nav
 ✅ Contact / Footer Section  
 ✅ Deployed using **Netlify**
 
+
 ---
 
 ## 🛠️ Technologies Used
