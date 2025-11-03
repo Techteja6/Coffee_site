@@ -4,7 +4,9 @@ A modern and responsive **Coffee Website** built using **HTML, CSS, and JavaScri
 
 🌐 **Live Demo:** [https://teja-coffee.netlify.app/](https://teja-coffee.netlify.app/)
 
+
 ---
+
 ## 📖 About the Project
 
 The **Coffee Site** project is a front-end website that highlights the experience and ambiance of a coffee shop.  
